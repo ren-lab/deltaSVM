@@ -19,4 +19,4 @@ do
 done
 python scripts/obs_pred.py -s resources/threhsolds.obs.tsv -o out/obs.pred.tsv
 sort -k1,1 -k2,2 -o out/obs.pred.tsv out/obs.pred.tsv
-paste out/obs.pred.tsv out/pbs.pred.tsv | cut -f1-5,7,9 | sort -k7,7 -k5,5r | sed '1i snp\ttf\tallele1_bind\tallele2_bind\tseq_binding\tkeis_score\tpreferred_allele' > out/summary.pred.tsv
+paste out/obs.pred.tsv out/pbs.pred.tsv | cut -f1-5,7,9 | sort -k7,7 -k5,5r | sed '1i snp\ttf\tallele1_bind\tallele2_bind\tseq_binding\tdeltaSVM_score\tpreferred_allele' > out/summary.pred.tsv
