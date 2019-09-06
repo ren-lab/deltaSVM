@@ -8,7 +8,7 @@ Here, we provide scripts and resources to make predictions for differential bind
 ##Quick Start
 First, you need to obtain a list of SNPs and reference genome in fasta format(.fa file) with index(.fai file). In this repo, we used `input_snp.tsv` as the input SNPs and `hg19.fa` as the reference genome. 
 
-Second, you need to download resources files from [Ren lab server](http://renlab.sdsc.edu/yunjiang/deltaSVM/resources), including reference genome and models and put downloaded files into the `resources` folder. Other genome builds can also be used, but you need to make sure the SNP file and fasta file are from the same genome build. Also, you need to change `hg19.fa` in the `run.sh` to corresponding files.
+Second, you need to download resources files from [Ren lab server](http://renlab.sdsc.edu/yunjiang/deltaSVM), including reference genome and models and put downloaded `resources` folder under current directory. Other genome builds can also be used, but you need to make sure the SNP file and fasta file are from the same genome build. Also, you need to change `hg19.fa` in the `run.sh` to corresponding files.
 
 Then, you can run `bash run.sh` to make predictions. The final output file is `out/summary.pred.tsv`. Details for columns are listed below.
 
