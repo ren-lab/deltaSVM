@@ -4,6 +4,8 @@
 #File: run.sh
 #Create Date: 2019-03-01 16:51:31
 
+set -e
+
 \rm -rf data tmp out log
 mkdir data tmp out log
 python scripts/generate_allelic_seqs.py -f resources/hg19.fa -s input_snp.tsv -o data/selex_allelic_oligos 2>log/selex_allelic_oligos.log
