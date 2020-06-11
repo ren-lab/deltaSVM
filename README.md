@@ -5,6 +5,9 @@ Based on HT-SELEX data from [Yin *et. al.*](https://www.ncbi.nlm.nih.gov/pubmed/
 
 Here, we provide scripts and resources to make predictions for differential binding to SNPs of those 94 TFs. For few SNPs of interest (<1,000), our web server [GVATdb](http://renlab.sdsc.edu/GVATdb/) is recommended. To predict a large set of SNPs, you can clone this GitHub repo and run it on a local server.
 
+## Dependency
+[pysam](https://pysam.readthedocs.io/en/latest/api.html) is requried to run the software. You can install pysam using conda or pip.
+
 ## Quick Start
 First, you need to obtain a list of SNPs and reference genome in fasta format(.fa file) with index(.fai file). In this repo, we used `input_snp.tsv` as the input SNPs and `hg19.fa` as the reference genome. 
 
