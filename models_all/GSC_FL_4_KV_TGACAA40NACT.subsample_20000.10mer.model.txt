@@ -1,0 +1,1 @@
+../../../models/20190716/models/GSC_FL_4_KV_TGACAA40NACT.subsample_20000.10mer.model.txt

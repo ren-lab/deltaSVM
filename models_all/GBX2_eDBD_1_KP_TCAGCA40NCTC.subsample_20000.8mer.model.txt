@@ -1,0 +1,1 @@
+../../../models/20190215/models/GBX2_eDBD_1_KP_TCAGCA40NCTC.subsample_20000.8mer.model.txt

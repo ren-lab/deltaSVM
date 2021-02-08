@@ -1,0 +1,1 @@
+../../../models/20190716/models/THRB_FL_1_KZ_TTCGTT40NGCC.subsample_20000.10mer.model.txt

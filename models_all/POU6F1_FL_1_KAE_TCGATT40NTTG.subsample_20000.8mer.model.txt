@@ -1,0 +1,1 @@
+../../../models/20190716/models/POU6F1_FL_1_KAE_TCGATT40NTTG.subsample_20000.8mer.model.txt

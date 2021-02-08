@@ -1,0 +1,1 @@
+../../../models/20190716/models/NEUROG2_eDBD_4_KO_TTTGTA40NTCC.subsample_20000.8mer.model.txt

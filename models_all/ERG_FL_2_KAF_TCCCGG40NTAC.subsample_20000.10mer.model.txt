@@ -1,0 +1,1 @@
+../../../models/20190215/models/ERG_FL_2_KAF_TCCCGG40NTAC.subsample_20000.10mer.model.txt

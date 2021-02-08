@@ -1,0 +1,1 @@
+../../../models/20190716/models/ASCL2_FL_2_KAE_TTCTCC40NAGA.subsample_20000.10mer.model.txt

@@ -1,0 +1,1 @@
+../../../models/20190716/models/USF2_eDBD_4_KAN_TGGTTT40NTTA.subsample_20000.10mer.model.txt

@@ -1,0 +1,1 @@
+../../../models/20190215/models/HSF2_FL_3_KZ_TCAAAC40NAAC.subsample_20000.8mer.model.txt

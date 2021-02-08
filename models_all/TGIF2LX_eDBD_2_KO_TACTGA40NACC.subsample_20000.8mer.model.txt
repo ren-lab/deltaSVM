@@ -1,0 +1,1 @@
+../../../models/20190215/models/TGIF2LX_eDBD_2_KO_TACTGA40NACC.subsample_20000.8mer.model.txt

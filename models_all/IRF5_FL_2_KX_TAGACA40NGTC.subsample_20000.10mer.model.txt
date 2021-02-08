@@ -1,0 +1,1 @@
+../../../models/20190716/models/IRF5_FL_2_KX_TAGACA40NGTC.subsample_20000.10mer.model.txt

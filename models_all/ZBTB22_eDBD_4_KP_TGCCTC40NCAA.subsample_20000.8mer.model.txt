@@ -1,0 +1,1 @@
+../../../models/20190716/models/ZBTB22_eDBD_4_KP_TGCCTC40NCAA.subsample_20000.8mer.model.txt

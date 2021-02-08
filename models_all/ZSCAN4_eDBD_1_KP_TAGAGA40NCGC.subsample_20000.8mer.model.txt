@@ -1,0 +1,1 @@
+../../../models/20190716/models/ZSCAN4_eDBD_1_KP_TAGAGA40NCGC.subsample_20000.8mer.model.txt

@@ -1,0 +1,1 @@
+../../../models/20190716/models/RHOXF1_FL_1_KZ_TGAGAG40NCGC.subsample_20000.10mer.model.txt

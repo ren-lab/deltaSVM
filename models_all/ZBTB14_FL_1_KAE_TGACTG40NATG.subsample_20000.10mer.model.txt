@@ -1,0 +1,1 @@
+../../../models/20190716/models/ZBTB14_FL_1_KAE_TGACTG40NATG.subsample_20000.10mer.model.txt

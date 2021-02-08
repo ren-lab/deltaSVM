@@ -1,0 +1,1 @@
+../../../models/20190716/models/ESR1_eDBD_3_KV_TCAAAC40NAAC.subsample_20000.8mer.model.txt

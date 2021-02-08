@@ -1,0 +1,1 @@
+../../../models/20190716/models/ZFP42_eDBD_1_KS_TAGTGC40NATG.subsample_20000.10mer.model.txt

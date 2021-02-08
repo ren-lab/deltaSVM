@@ -1,0 +1,1 @@
+../../../models/20190716/models/BARHL1_eDBD_2_KT_TTAGCG40NAGA.subsample_20000.8mer.model.txt

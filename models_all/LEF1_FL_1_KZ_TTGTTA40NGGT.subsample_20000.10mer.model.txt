@@ -1,0 +1,1 @@
+../../../models/20190716/models/LEF1_FL_1_KZ_TTGTTA40NGGT.subsample_20000.10mer.model.txt

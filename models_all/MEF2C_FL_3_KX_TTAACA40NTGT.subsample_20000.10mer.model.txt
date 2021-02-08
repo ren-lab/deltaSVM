@@ -1,0 +1,1 @@
+../../../models/20190716/models/MEF2C_FL_3_KX_TTAACA40NTGT.subsample_20000.10mer.model.txt

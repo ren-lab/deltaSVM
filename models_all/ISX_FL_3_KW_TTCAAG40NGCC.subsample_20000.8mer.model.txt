@@ -1,0 +1,1 @@
+../../../models/20190215/models/ISX_FL_3_KW_TTCAAG40NGCC.subsample_20000.8mer.model.txt

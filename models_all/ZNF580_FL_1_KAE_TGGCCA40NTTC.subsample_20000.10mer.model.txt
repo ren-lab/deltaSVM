@@ -1,0 +1,1 @@
+../../../models/20190215/models/ZNF580_FL_1_KAE_TGGCCA40NTTC.subsample_20000.10mer.model.txt

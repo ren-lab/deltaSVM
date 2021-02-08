@@ -1,0 +1,1 @@
+../../../models/20190215/models/ZIC1_FL_1_KW_TTTATT40NATC.subsample_20000.10mer.model.txt

@@ -1,0 +1,1 @@
+../../../models/20190716/models/ATF4_FL_1_KW_TCTAGG40NCTG.subsample_20000.8mer.model.txt

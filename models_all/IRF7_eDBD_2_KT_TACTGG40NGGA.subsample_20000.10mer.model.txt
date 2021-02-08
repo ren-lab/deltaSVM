@@ -1,0 +1,1 @@
+../../../models/20190215/models/IRF7_eDBD_2_KT_TACTGG40NGGA.subsample_20000.10mer.model.txt

@@ -1,0 +1,1 @@
+../../../models/20190716/models/SOX8_FL_4_KW_TCGGCT40NTAA.subsample_20000.10mer.model.txt

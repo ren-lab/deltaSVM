@@ -1,0 +1,1 @@
+../../../models/20190716/models/ZNF323_FL_2_KV_TGGAGA40NCCA.subsample_20000.10mer.model.txt

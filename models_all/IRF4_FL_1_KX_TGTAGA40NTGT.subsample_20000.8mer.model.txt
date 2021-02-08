@@ -1,0 +1,1 @@
+../../../models/20190716/models/IRF4_FL_1_KX_TGTAGA40NTGT.subsample_20000.8mer.model.txt

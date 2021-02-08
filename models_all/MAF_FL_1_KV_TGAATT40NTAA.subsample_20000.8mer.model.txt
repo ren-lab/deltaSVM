@@ -1,0 +1,1 @@
+../../../models/20190215/models/MAF_FL_1_KV_TGAATT40NTAA.subsample_20000.8mer.model.txt

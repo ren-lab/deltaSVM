@@ -1,0 +1,1 @@
+../../../models/20190215/models/VENTX_FL_4_KW_TATTTG40NCCA.subsample_20000.10mer.model.txt

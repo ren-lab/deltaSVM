@@ -1,0 +1,1 @@
+../../../models/20190716/models/OVOL2_FL_3_KAE_TCTCAG40NAGA.subsample_20000.8mer.model.txt

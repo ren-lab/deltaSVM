@@ -1,0 +1,1 @@
+../../../models/20190215/models/SCRT1_eDBD_2_KP_TTCGGC40NAGC.subsample_20000.10mer.model.txt

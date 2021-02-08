@@ -1,0 +1,1 @@
+../../../models/20190716/models/NKX6-2_FL_2_KV_TCATGA40NAGT.subsample_20000.8mer.model.txt

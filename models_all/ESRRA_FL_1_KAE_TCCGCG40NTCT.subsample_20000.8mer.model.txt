@@ -1,0 +1,1 @@
+../../../models/20190716/models/ESRRA_FL_1_KAE_TCCGCG40NTCT.subsample_20000.8mer.model.txt

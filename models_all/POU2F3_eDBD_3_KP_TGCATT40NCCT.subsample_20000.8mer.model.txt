@@ -1,0 +1,1 @@
+../../../models/20190716/models/POU2F3_eDBD_3_KP_TGCATT40NCCT.subsample_20000.8mer.model.txt

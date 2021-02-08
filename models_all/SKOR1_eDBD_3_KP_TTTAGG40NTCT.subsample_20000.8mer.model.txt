@@ -1,0 +1,1 @@
+../../../models/20190716/models/SKOR1_eDBD_3_KP_TTTAGG40NTCT.subsample_20000.8mer.model.txt

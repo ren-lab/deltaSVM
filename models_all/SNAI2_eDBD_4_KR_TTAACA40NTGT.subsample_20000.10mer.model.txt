@@ -1,0 +1,1 @@
+../../../models/20190215/models/SNAI2_eDBD_4_KR_TTAACA40NTGT.subsample_20000.10mer.model.txt

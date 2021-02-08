@@ -1,0 +1,1 @@
+../../../models/20190716/models/GLI2_eDBD_1_KS_TGGAGT40NTGG.subsample_20000.8mer.model.txt

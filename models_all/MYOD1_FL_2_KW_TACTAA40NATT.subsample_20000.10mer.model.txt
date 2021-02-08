@@ -1,0 +1,1 @@
+../../../models/20190215/models/MYOD1_FL_2_KW_TACTAA40NATT.subsample_20000.10mer.model.txt

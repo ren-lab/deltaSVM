@@ -1,0 +1,1 @@
+../../../models/20190215/models/MIXL1_FL_1_KW_TTAAGT40NCCT.subsample_20000.10mer.model.txt

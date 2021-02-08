@@ -1,0 +1,1 @@
+../../../models/20190716/models/LIN28B_FL_2_KV_TTTGAC40NGGT.subsample_20000.8mer.model.txt

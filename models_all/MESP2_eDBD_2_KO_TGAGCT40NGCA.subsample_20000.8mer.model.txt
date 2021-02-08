@@ -1,0 +1,1 @@
+../../../models/20190716/models/MESP2_eDBD_2_KO_TGAGCT40NGCA.subsample_20000.8mer.model.txt

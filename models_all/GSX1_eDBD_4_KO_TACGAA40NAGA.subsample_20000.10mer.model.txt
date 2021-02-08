@@ -1,0 +1,1 @@
+../../../models/20190716/models/GSX1_eDBD_4_KO_TACGAA40NAGA.subsample_20000.10mer.model.txt

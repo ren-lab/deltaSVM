@@ -1,0 +1,1 @@
+../../../models/20190716/models/CREB3L1_FL_4_KX_TCTTTA40NGGA.subsample_20000.8mer.model.txt

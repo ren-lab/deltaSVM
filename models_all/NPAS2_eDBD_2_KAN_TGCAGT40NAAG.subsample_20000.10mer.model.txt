@@ -1,0 +1,1 @@
+../../../models/20190716/models/NPAS2_eDBD_2_KAN_TGCAGT40NAAG.subsample_20000.10mer.model.txt

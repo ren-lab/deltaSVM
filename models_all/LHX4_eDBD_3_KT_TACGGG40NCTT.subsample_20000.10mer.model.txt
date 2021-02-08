@@ -1,0 +1,1 @@
+../../../models/20190716/models/LHX4_eDBD_3_KT_TACGGG40NCTT.subsample_20000.10mer.model.txt

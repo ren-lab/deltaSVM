@@ -1,0 +1,1 @@
+../../../models/20190215/models/NFE2_eDBD_4_KR_TTAAAT40NAAT.subsample_20000.8mer.model.txt

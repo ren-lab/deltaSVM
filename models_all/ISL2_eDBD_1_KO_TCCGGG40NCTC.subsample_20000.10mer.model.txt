@@ -1,0 +1,1 @@
+../../../models/20190716/models/ISL2_eDBD_1_KO_TCCGGG40NCTC.subsample_20000.10mer.model.txt

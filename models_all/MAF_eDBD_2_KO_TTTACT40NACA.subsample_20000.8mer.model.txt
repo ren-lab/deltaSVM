@@ -1,0 +1,1 @@
+../../../models/20190215/models/MAF_eDBD_2_KO_TTTACT40NACA.subsample_20000.8mer.model.txt

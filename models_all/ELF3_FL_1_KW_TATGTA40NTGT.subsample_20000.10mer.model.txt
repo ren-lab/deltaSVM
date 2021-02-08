@@ -1,0 +1,1 @@
+../../../models/20190215/models/ELF3_FL_1_KW_TATGTA40NTGT.subsample_20000.10mer.model.txt

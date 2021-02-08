@@ -1,0 +1,1 @@
+../../../models/20190716/models/PTF1A_eDBD_3_KO_TGCTTT40NAGA.subsample_20000.10mer.model.txt

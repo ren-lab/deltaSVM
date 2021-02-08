@@ -1,0 +1,1 @@
+../../../models/20190716/models/CPSF4_FL_1_KZ_TTGTCC40NTAG.subsample_20000.10mer.model.txt

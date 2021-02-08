@@ -1,0 +1,1 @@
+../../../models/20190215/models/NEUROG1_FL_3_KAE_TTGCCA40NGTG.subsample_20000.10mer.model.txt

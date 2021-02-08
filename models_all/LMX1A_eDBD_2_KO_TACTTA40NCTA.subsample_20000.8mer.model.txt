@@ -1,0 +1,1 @@
+../../../models/20190716/models/LMX1A_eDBD_2_KO_TACTTA40NCTA.subsample_20000.8mer.model.txt

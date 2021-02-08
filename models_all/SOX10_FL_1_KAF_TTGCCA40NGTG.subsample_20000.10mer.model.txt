@@ -1,0 +1,1 @@
+../../../models/20190716/models/SOX10_FL_1_KAF_TTGCCA40NGTG.subsample_20000.10mer.model.txt

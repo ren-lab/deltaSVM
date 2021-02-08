@@ -1,0 +1,1 @@
+../../../models/20190716/models/FOSL1_FL_4_KAE_TGACGG40NCTC.subsample_20000.10mer.model.txt

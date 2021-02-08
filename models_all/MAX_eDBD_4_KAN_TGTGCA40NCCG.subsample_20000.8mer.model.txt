@@ -1,0 +1,1 @@
+../../../models/20190716/models/MAX_eDBD_4_KAN_TGTGCA40NCCG.subsample_20000.8mer.model.txt

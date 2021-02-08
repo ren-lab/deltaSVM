@@ -1,0 +1,1 @@
+../../../models/20190215/models/CREB5_FL_3_KAE_TTACAA40NTAC.subsample_20000.8mer.model.txt

@@ -1,0 +1,1 @@
+../../../models/20190716/models/HOXA4_eDBD_2_KO_TCTAGG40NCTG.subsample_20000.10mer.model.txt

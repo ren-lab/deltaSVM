@@ -1,0 +1,1 @@
+../../../models/20190716/models/DLX2_FL_3_KW_TGGGAG40NAGG.subsample_20000.8mer.model.txt

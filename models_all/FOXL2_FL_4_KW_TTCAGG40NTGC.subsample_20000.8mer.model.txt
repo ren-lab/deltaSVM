@@ -1,0 +1,1 @@
+../../../models/20190716/models/FOXL2_FL_4_KW_TTCAGG40NTGC.subsample_20000.8mer.model.txt

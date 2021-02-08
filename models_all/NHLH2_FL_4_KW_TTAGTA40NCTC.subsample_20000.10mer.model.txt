@@ -1,0 +1,1 @@
+../../../models/20190215/models/NHLH2_FL_4_KW_TTAGTA40NCTC.subsample_20000.10mer.model.txt

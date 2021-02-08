@@ -1,0 +1,1 @@
+../../../models/20190716/models/RARG_eDBD_3_KQ_TGAGAA40NGCG.subsample_20000.8mer.model.txt

@@ -1,0 +1,1 @@
+../../../models/20190215/models/OTX1_FL_3_KX_TGGACT40NAAT.subsample_20000.8mer.model.txt

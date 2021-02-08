@@ -1,0 +1,1 @@
+../../../models/20190716/models/ASCL2_eDBD_1_KO_TAACTC40NGTC.subsample_20000.8mer.model.txt

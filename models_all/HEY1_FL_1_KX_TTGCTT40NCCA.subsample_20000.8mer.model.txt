@@ -1,0 +1,1 @@
+../../../models/20190716/models/HEY1_FL_1_KX_TTGCTT40NCCA.subsample_20000.8mer.model.txt

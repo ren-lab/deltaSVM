@@ -1,0 +1,1 @@
+../../../models/20190716/models/TCF7L1_eDBD_3_KW_TAAGGG40NACC.subsample_20000.8mer.model.txt

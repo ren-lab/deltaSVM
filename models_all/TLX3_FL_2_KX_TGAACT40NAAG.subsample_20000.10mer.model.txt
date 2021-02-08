@@ -1,0 +1,1 @@
+../../../models/20190716/models/TLX3_FL_2_KX_TGAACT40NAAG.subsample_20000.10mer.model.txt

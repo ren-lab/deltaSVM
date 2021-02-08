@@ -1,0 +1,1 @@
+../../../models/20190215/models/FERD3L_FL_2_KW_TAAATT40NCTG.subsample_20000.10mer.model.txt

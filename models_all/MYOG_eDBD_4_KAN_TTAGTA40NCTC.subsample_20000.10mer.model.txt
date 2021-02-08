@@ -1,0 +1,1 @@
+../../../models/20190215/models/MYOG_eDBD_4_KAN_TTAGTA40NCTC.subsample_20000.10mer.model.txt

@@ -1,0 +1,1 @@
+../../../models/20190716/models/HOXD9_eDBD_3_KQ_TGCGTC40NTTA.subsample_20000.8mer.model.txt

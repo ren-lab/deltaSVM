@@ -1,0 +1,1 @@
+../../../models/20190215/models/SPIB_eDBD_2_KAN_TTAAAT40NAAT.subsample_20000.8mer.model.txt

@@ -1,0 +1,1 @@
+../../../models/20190215/models/NFIX_FL_4_KAE_TTGAGC40NGTC.subsample_20000.10mer.model.txt

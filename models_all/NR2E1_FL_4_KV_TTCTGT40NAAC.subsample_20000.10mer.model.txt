@@ -1,0 +1,1 @@
+../../../models/20190716/models/NR2E1_FL_4_KV_TTCTGT40NAAC.subsample_20000.10mer.model.txt

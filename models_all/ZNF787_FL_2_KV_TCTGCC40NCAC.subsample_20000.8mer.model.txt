@@ -1,0 +1,1 @@
+../../../models/20190716/models/ZNF787_FL_2_KV_TCTGCC40NCAC.subsample_20000.8mer.model.txt

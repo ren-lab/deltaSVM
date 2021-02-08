@@ -1,0 +1,1 @@
+../../../models/20190716/models/NFIB_FL_2_KX_TCTCCG40NCGC.subsample_20000.8mer.model.txt

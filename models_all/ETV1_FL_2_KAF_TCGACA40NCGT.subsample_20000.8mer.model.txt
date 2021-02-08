@@ -1,0 +1,1 @@
+../../../models/20190215/models/ETV1_FL_2_KAF_TCGACA40NCGT.subsample_20000.8mer.model.txt

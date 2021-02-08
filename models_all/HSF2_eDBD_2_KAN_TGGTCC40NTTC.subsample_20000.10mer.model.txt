@@ -1,0 +1,1 @@
+../../../models/20190215/models/HSF2_eDBD_2_KAN_TGGTCC40NTTC.subsample_20000.10mer.model.txt

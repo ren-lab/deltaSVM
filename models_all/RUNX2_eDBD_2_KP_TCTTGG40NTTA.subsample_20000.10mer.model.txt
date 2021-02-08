@@ -1,0 +1,1 @@
+../../../models/20190716/models/RUNX2_eDBD_2_KP_TCTTGG40NTTA.subsample_20000.10mer.model.txt
