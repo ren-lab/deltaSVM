@@ -1,1 +1,0 @@
-../../../models/20190215/models/MAFG_eDBD_4_KN_TTGTTC40NAAG.subsample_20000.10mer.model.txt

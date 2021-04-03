@@ -1,1 +1,0 @@
-../../../models/20190716/models/ZBTB32_eDBD_3_KT_TACTAA40NATT.subsample_20000.8mer.model.txt

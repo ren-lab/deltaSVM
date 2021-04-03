@@ -1,1 +1,0 @@
-../../../models/20190215/models/PAX7_eDBD_4_KP_TGTCAG40NGAC.subsample_20000.10mer.model.txt

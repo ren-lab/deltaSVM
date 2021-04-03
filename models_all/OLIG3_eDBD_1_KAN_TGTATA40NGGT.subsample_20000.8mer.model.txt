@@ -1,1 +1,0 @@
-../../../models/20190215/models/OLIG3_eDBD_1_KAN_TGTATA40NGGT.subsample_20000.8mer.model.txt

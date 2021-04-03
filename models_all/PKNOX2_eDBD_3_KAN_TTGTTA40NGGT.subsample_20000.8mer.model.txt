@@ -1,1 +1,0 @@
-../../../models/20190716/models/PKNOX2_eDBD_3_KAN_TTGTTA40NGGT.subsample_20000.8mer.model.txt

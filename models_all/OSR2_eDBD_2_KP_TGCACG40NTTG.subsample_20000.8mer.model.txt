@@ -1,1 +1,0 @@
-../../../models/20190716/models/OSR2_eDBD_2_KP_TGCACG40NTTG.subsample_20000.8mer.model.txt

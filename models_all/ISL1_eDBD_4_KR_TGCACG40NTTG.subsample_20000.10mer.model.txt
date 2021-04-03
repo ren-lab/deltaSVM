@@ -1,1 +1,0 @@
-../../../models/20190716/models/ISL1_eDBD_4_KR_TGCACG40NTTG.subsample_20000.10mer.model.txt

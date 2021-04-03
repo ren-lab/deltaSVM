@@ -1,1 +1,0 @@
-../../../models/20190215/models/PHOX2B_eDBD_1_KR_TTGATG40NATC.subsample_20000.10mer.model.txt

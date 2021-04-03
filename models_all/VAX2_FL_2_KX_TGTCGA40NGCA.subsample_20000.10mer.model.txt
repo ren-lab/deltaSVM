@@ -1,1 +1,0 @@
-../../../models/20190215/models/VAX2_FL_2_KX_TGTCGA40NGCA.subsample_20000.10mer.model.txt

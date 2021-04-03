@@ -1,1 +1,0 @@
-../../../models/20190716/models/SP1_eDBD_4_KV_TACCCA40NTGT.subsample_20000.8mer.model.txt

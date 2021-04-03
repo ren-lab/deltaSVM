@@ -1,1 +1,0 @@
-../../../models/20190215/models/ATF6B_eDBD_4_KP_TTCTGT40NAAC.subsample_20000.10mer.model.txt

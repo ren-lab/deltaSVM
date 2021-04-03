@@ -1,1 +1,0 @@
-../../../models/20190215/models/ETV4_FL_2_KAE_TCTCGA40NCAT.subsample_20000.10mer.model.txt

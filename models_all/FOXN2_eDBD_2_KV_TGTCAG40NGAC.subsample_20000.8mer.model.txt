@@ -1,1 +1,0 @@
-../../../models/20190716/models/FOXN2_eDBD_2_KV_TGTCAG40NGAC.subsample_20000.8mer.model.txt

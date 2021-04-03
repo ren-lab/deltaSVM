@@ -1,1 +1,0 @@
-../../../models/20190716/models/BATF_FL_3_KAE_TTACAG40NGTG.subsample_20000.10mer.model.txt

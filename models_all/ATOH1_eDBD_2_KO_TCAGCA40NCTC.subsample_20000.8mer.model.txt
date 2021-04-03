@@ -1,1 +1,0 @@
-../../../models/20190215/models/ATOH1_eDBD_2_KO_TCAGCA40NCTC.subsample_20000.8mer.model.txt

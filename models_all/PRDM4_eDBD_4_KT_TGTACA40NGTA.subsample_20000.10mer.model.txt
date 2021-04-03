@@ -1,1 +1,0 @@
-../../../models/20190716/models/PRDM4_eDBD_4_KT_TGTACA40NGTA.subsample_20000.10mer.model.txt

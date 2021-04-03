@@ -1,1 +1,0 @@
-../../../models/20190215/models/NHLH1_FL_2_KV_TCTCCA40NGGA.subsample_20000.10mer.model.txt

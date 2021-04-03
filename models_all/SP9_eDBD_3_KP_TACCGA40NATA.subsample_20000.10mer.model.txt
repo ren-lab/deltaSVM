@@ -1,1 +1,0 @@
-../../../models/20190716/models/SP9_eDBD_3_KP_TACCGA40NATA.subsample_20000.10mer.model.txt

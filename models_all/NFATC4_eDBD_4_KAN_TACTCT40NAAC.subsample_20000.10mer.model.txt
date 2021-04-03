@@ -1,1 +1,0 @@
-../../../models/20190716/models/NFATC4_eDBD_4_KAN_TACTCT40NAAC.subsample_20000.10mer.model.txt

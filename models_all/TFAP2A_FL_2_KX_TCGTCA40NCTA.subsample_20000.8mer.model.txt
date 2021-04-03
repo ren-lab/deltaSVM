@@ -1,1 +1,0 @@
-../../../models/20190215/models/TFAP2A_FL_2_KX_TCGTCA40NCTA.subsample_20000.8mer.model.txt

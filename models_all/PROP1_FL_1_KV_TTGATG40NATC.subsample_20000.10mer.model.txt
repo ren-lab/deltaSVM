@@ -1,1 +1,0 @@
-../../../models/20190215/models/PROP1_FL_1_KV_TTGATG40NATC.subsample_20000.10mer.model.txt

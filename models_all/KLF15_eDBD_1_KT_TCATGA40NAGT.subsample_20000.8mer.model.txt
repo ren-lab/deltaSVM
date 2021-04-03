@@ -1,1 +1,0 @@
-../../../models/20190716/models/KLF15_eDBD_1_KT_TCATGA40NAGT.subsample_20000.8mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190716/models/DMRTC2_FL_4_KAE_TCGTTC40NATA.subsample_20000.10mer.model.txt

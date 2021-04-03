@@ -1,1 +1,0 @@
-../../../models/20190716/models/DLX2_eDBD_4_KP_TGTCTG40NAGG.subsample_20000.10mer.model.txt

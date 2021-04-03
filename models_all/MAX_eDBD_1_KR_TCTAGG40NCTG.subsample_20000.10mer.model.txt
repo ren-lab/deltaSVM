@@ -1,1 +1,0 @@
-../../../models/20190716/models/MAX_eDBD_1_KR_TCTAGG40NCTG.subsample_20000.10mer.model.txt

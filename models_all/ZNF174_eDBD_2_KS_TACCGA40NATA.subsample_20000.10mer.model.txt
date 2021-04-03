@@ -1,1 +1,0 @@
-../../../models/20190716/models/ZNF174_eDBD_2_KS_TACCGA40NATA.subsample_20000.10mer.model.txt

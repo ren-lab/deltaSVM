@@ -1,1 +1,0 @@
-../../../models/20190716/models/FOXK1_eDBD_3_KO_TACCGA40NATA.subsample_20000.8mer.model.txt

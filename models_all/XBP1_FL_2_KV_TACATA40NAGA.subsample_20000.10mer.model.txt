@@ -1,1 +1,0 @@
-../../../models/20190716/models/XBP1_FL_2_KV_TACATA40NAGA.subsample_20000.10mer.model.txt

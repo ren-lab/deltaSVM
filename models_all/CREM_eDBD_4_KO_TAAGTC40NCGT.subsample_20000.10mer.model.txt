@@ -1,1 +1,0 @@
-../../../models/20190716/models/CREM_eDBD_4_KO_TAAGTC40NCGT.subsample_20000.10mer.model.txt

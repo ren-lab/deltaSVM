@@ -1,1 +1,0 @@
-../../../models/20190215/models/EN2_eDBD_4_KAN_TGACTT40NGGT.subsample_20000.10mer.model.txt

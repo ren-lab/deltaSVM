@@ -1,1 +1,0 @@
-../../../models/20190215/models/TGIF2LX_FL_2_KW_TCGCCC40NCAT.subsample_20000.8mer.model.txt

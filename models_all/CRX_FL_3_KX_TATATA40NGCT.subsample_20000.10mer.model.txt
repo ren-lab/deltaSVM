@@ -1,1 +1,0 @@
-../../../models/20190716/models/CRX_FL_3_KX_TATATA40NGCT.subsample_20000.10mer.model.txt

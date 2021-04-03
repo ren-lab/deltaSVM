@@ -1,1 +1,0 @@
-../../../models/20190215/models/ISX_eDBD_4_KO_TCGGCT40NTAA.subsample_20000.10mer.model.txt

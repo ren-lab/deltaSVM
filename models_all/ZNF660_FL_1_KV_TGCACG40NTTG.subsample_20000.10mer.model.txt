@@ -1,1 +1,0 @@
-../../../models/20190716/models/ZNF660_FL_1_KV_TGCACG40NTTG.subsample_20000.10mer.model.txt

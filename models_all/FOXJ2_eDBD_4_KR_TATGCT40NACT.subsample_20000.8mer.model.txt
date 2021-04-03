@@ -1,1 +1,0 @@
-../../../models/20190716/models/FOXJ2_eDBD_4_KR_TATGCT40NACT.subsample_20000.8mer.model.txt

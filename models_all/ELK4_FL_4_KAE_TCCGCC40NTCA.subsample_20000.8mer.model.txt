@@ -1,1 +1,0 @@
-../../../models/20190716/models/ELK4_FL_4_KAE_TCCGCC40NTCA.subsample_20000.8mer.model.txt

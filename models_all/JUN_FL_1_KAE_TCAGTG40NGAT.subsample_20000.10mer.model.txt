@@ -1,1 +1,0 @@
-../../../models/20190215/models/JUN_FL_1_KAE_TCAGTG40NGAT.subsample_20000.10mer.model.txt

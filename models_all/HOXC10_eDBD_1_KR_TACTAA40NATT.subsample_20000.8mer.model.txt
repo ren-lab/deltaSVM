@@ -1,1 +1,0 @@
-../../../models/20190215/models/HOXC10_eDBD_1_KR_TACTAA40NATT.subsample_20000.8mer.model.txt

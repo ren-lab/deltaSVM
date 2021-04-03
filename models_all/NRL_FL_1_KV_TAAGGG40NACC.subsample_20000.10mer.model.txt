@@ -1,1 +1,0 @@
-../../../models/20190215/models/NRL_FL_1_KV_TAAGGG40NACC.subsample_20000.10mer.model.txt

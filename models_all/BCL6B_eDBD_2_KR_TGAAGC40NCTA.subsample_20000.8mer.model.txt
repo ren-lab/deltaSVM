@@ -1,1 +1,0 @@
-../../../models/20190716/models/BCL6B_eDBD_2_KR_TGAAGC40NCTA.subsample_20000.8mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190716/models/SREBF1_eDBD_1_KT_TCTCCT40NCCT.subsample_20000.8mer.model.txt

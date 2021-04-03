@@ -1,1 +1,0 @@
-../../../models/20190716/models/SMAD5_eDBD_2_KR_TGTCTG40NAGG.subsample_20000.8mer.model.txt

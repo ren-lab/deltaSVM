@@ -1,1 +1,0 @@
-../../../models/20190716/models/ZFP41_FL_3_KV_TCAGAA40NAGG.subsample_20000.8mer.model.txt

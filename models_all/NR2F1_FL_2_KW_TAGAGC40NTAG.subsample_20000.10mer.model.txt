@@ -1,1 +1,0 @@
-../../../models/20190215/models/NR2F1_FL_2_KW_TAGAGC40NTAG.subsample_20000.10mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190215/models/NFKB2_eDBD_1_KS_TCCGGG40NCTC.subsample_20000.8mer.model.txt

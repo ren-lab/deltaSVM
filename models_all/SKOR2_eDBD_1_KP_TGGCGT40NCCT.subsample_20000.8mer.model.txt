@@ -1,1 +1,0 @@
-../../../models/20190215/models/SKOR2_eDBD_1_KP_TGGCGT40NCCT.subsample_20000.8mer.model.txt

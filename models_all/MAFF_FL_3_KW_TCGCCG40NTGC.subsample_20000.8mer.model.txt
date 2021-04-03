@@ -1,1 +1,0 @@
-../../../models/20190716/models/MAFF_FL_3_KW_TCGCCG40NTGC.subsample_20000.8mer.model.txt

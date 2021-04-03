@@ -1,1 +1,0 @@
-../../../models/20190716/models/GLIS2_eDBD_2_KP_TCGCCC40NCAT.subsample_20000.10mer.model.txt

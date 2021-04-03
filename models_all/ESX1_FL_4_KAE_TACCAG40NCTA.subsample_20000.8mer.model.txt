@@ -1,1 +1,0 @@
-../../../models/20190215/models/ESX1_FL_4_KAE_TACCAG40NCTA.subsample_20000.8mer.model.txt

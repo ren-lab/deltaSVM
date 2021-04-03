@@ -1,1 +1,0 @@
-../../../models/20190716/models/ZNF250_eDBD_1_KN_TGGGTT40NCGT.subsample_20000.8mer.model.txt

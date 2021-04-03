@@ -1,1 +1,0 @@
-../../../models/20190215/models/ALX3_FL_2_KV_TAGCTG40NCTA.subsample_20000.10mer.model.txt

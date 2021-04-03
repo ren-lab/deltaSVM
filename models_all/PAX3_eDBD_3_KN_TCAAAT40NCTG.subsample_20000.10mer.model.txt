@@ -1,1 +1,0 @@
-../../../models/20190716/models/PAX3_eDBD_3_KN_TCAAAT40NCTG.subsample_20000.10mer.model.txt

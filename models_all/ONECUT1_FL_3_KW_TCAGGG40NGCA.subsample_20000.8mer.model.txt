@@ -1,1 +1,0 @@
-../../../models/20190716/models/ONECUT1_FL_3_KW_TCAGGG40NGCA.subsample_20000.8mer.model.txt

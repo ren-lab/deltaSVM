@@ -1,1 +1,0 @@
-../../../models/20190716/models/MYF6_eDBD_3_KAN_TAAATT40NCTG.subsample_20000.8mer.model.txt

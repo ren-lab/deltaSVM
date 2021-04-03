@@ -1,1 +1,0 @@
-../../../models/20190716/models/ZIC5_eDBD_2_KV_TCGGGT40NAAG.subsample_20000.8mer.model.txt

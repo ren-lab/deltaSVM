@@ -1,1 +1,0 @@
-../../../models/20190215/models/MSC_FL_3_KV_TACTTA40NCTA.subsample_20000.10mer.model.txt

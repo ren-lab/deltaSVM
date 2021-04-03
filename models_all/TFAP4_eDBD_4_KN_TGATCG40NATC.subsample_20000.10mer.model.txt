@@ -1,1 +1,0 @@
-../../../models/20190716/models/TFAP4_eDBD_4_KN_TGATCG40NATC.subsample_20000.10mer.model.txt

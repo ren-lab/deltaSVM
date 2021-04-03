@@ -1,1 +1,0 @@
-../../../models/20190716/models/DMBX1_eDBD_4_KT_TCCTCA40NAAC.subsample_20000.8mer.model.txt

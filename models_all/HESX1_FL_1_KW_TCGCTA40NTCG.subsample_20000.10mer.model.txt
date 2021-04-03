@@ -1,1 +1,0 @@
-../../../models/20190215/models/HESX1_FL_1_KW_TCGCTA40NTCG.subsample_20000.10mer.model.txt

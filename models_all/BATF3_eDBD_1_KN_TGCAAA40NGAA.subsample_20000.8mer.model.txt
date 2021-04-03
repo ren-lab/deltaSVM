@@ -1,1 +1,0 @@
-../../../models/20190716/models/BATF3_eDBD_1_KN_TGCAAA40NGAA.subsample_20000.8mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190716/models/E2F8_eDBD_4_KP_TCCATC40NTGA.subsample_20000.10mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190215/models/BHLHE23_FL_3_KV_TTGCTC40NGAA.subsample_20000.10mer.model.txt

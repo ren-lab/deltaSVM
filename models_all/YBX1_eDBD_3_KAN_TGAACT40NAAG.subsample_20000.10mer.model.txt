@@ -1,1 +1,0 @@
-../../../models/20190215/models/YBX1_eDBD_3_KAN_TGAACT40NAAG.subsample_20000.10mer.model.txt

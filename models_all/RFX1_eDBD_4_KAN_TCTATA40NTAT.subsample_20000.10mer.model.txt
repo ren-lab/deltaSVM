@@ -1,1 +1,0 @@
-../../../models/20190215/models/RFX1_eDBD_4_KAN_TCTATA40NTAT.subsample_20000.10mer.model.txt

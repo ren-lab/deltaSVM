@@ -1,1 +1,0 @@
-../../../models/20190716/models/MAFA_eDBD_4_KO_TACGGG40NCTT.subsample_20000.8mer.model.txt

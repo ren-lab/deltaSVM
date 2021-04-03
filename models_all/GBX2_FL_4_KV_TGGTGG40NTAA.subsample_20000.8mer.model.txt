@@ -1,1 +1,0 @@
-../../../models/20190215/models/GBX2_FL_4_KV_TGGTGG40NTAA.subsample_20000.8mer.model.txt

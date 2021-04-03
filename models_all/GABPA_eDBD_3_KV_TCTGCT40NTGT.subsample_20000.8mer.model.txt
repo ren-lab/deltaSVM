@@ -1,1 +1,0 @@
-../../../models/20190716/models/GABPA_eDBD_3_KV_TCTGCT40NTGT.subsample_20000.8mer.model.txt

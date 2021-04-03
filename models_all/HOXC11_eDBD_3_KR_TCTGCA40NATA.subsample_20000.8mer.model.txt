@@ -1,1 +1,0 @@
-../../../models/20190215/models/HOXC11_eDBD_3_KR_TCTGCA40NATA.subsample_20000.8mer.model.txt

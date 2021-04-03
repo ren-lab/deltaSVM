@@ -1,1 +1,0 @@
-../../../models/20190716/models/NR1I3_FL_3_KAF_TGGCCA40NTTC.subsample_20000.8mer.model.txt

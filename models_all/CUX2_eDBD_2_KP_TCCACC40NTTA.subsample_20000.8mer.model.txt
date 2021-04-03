@@ -1,1 +1,0 @@
-../../../models/20190716/models/CUX2_eDBD_2_KP_TCCACC40NTTA.subsample_20000.8mer.model.txt

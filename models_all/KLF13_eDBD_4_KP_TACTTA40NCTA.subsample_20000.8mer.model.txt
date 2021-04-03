@@ -1,1 +1,0 @@
-../../../models/20190215/models/KLF13_eDBD_4_KP_TACTTA40NCTA.subsample_20000.8mer.model.txt

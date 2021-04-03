@@ -1,1 +1,0 @@
-../../../models/20190716/models/PDX1_eDBD_1_KO_TGCCCT40NTCG.subsample_20000.10mer.model.txt

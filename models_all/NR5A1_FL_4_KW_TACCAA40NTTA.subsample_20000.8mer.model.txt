@@ -1,1 +1,0 @@
-../../../models/20190215/models/NR5A1_FL_4_KW_TACCAA40NTTA.subsample_20000.8mer.model.txt

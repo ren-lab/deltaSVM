@@ -1,1 +1,0 @@
-../../../models/20190716/models/IRX5_eDBD_3_KW_TACGGG40NCTT.subsample_20000.8mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190215/models/ELF5_FL_1_KW_TCTGCA40NATA.subsample_20000.10mer.model.txt

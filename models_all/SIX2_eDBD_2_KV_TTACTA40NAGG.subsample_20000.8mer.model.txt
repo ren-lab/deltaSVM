@@ -1,1 +1,0 @@
-../../../models/20190716/models/SIX2_eDBD_2_KV_TTACTA40NAGG.subsample_20000.8mer.model.txt

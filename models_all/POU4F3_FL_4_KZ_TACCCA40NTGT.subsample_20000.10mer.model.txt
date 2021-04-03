@@ -1,1 +1,0 @@
-../../../models/20190215/models/POU4F3_FL_4_KZ_TACCCA40NTGT.subsample_20000.10mer.model.txt

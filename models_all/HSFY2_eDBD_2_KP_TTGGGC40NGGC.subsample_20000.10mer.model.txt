@@ -1,1 +1,0 @@
-../../../models/20190716/models/HSFY2_eDBD_2_KP_TTGGGC40NGGC.subsample_20000.10mer.model.txt

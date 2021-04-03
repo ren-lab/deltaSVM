@@ -1,1 +1,0 @@
-../../../models/20190716/models/MAFF_eDBD_1_KO_TTATTT40NCGT.subsample_20000.10mer.model.txt

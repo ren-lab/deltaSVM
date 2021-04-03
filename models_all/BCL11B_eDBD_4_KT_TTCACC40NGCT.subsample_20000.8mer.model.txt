@@ -1,1 +1,0 @@
-../../../models/20190716/models/BCL11B_eDBD_4_KT_TTCACC40NGCT.subsample_20000.8mer.model.txt

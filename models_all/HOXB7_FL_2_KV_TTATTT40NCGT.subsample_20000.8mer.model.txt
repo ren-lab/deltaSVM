@@ -1,1 +1,0 @@
-../../../models/20190716/models/HOXB7_FL_2_KV_TTATTT40NCGT.subsample_20000.8mer.model.txt

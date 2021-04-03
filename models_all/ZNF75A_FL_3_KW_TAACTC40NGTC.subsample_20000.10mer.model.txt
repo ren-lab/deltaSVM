@@ -1,1 +1,0 @@
-../../../models/20190215/models/ZNF75A_FL_3_KW_TAACTC40NGTC.subsample_20000.10mer.model.txt

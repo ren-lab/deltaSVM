@@ -1,1 +1,0 @@
-../../../models/20190215/models/FEV_eDBD_3_KO_TGCGCA40NCAA.subsample_20000.8mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190716/models/MLX_FL_4_KW_TGCCAA40NTAG.subsample_20000.10mer.model.txt

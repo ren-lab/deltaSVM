@@ -1,1 +1,0 @@
-../../../models/20190215/models/EGR3_FL_1_KW_TCCATC40NTGA.subsample_20000.10mer.model.txt

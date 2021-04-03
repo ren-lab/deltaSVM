@@ -1,1 +1,0 @@
-../../../models/20190716/models/ZNF684_FL_2_KAF_TACCGG40NAGT.subsample_20000.10mer.model.txt

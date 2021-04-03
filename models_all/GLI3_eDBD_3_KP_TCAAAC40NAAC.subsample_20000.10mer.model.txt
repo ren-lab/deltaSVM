@@ -1,1 +1,0 @@
-../../../models/20190215/models/GLI3_eDBD_3_KP_TCAAAC40NAAC.subsample_20000.10mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190215/models/VSX2_eDBD_3_KO_TTTGTT40NTAT.subsample_20000.10mer.model.txt

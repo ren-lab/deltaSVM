@@ -1,1 +1,0 @@
-../../../models/20190716/models/FOXD3_eDBD_2_KO_TTGCTT40NCCA.subsample_20000.10mer.model.txt

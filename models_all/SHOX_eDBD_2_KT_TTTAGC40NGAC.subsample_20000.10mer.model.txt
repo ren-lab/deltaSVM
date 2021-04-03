@@ -1,1 +1,0 @@
-../../../models/20190716/models/SHOX_eDBD_2_KT_TTTAGC40NGAC.subsample_20000.10mer.model.txt

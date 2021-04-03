@@ -1,1 +1,0 @@
-../../../models/20190716/models/OTX2_FL_4_KX_TCTTAT40NACA.subsample_20000.10mer.model.txt

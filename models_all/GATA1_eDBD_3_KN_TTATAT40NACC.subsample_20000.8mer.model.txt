@@ -1,1 +1,0 @@
-../../../models/20190716/models/GATA1_eDBD_3_KN_TTATAT40NACC.subsample_20000.8mer.model.txt

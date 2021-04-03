@@ -1,1 +1,0 @@
-../../../models/20190215/models/ESX1_eDBD_2_KT_TGGTAT40NTGA.subsample_20000.10mer.model.txt

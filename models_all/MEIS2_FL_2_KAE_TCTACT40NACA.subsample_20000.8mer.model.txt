@@ -1,1 +1,0 @@
-../../../models/20190215/models/MEIS2_FL_2_KAE_TCTACT40NACA.subsample_20000.8mer.model.txt

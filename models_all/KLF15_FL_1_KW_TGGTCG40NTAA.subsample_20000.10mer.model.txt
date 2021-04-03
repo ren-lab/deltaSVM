@@ -1,1 +1,0 @@
-../../../models/20190716/models/KLF15_FL_1_KW_TGGTCG40NTAA.subsample_20000.10mer.model.txt

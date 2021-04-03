@@ -1,1 +1,0 @@
-../../../models/20190716/models/NKX6-3_eDBD_4_KO_TGTAGA40NTGT.subsample_20000.8mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190716/models/PAX6_FL_2_KV_TGCTTT40NAGA.subsample_20000.10mer.model.txt

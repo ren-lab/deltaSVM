@@ -1,1 +1,0 @@
-../../../models/20190716/models/ZNF343_eDBD_4_KT_TGGCGT40NCCT.subsample_20000.8mer.model.txt

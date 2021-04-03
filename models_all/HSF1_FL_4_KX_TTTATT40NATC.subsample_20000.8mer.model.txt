@@ -1,1 +1,0 @@
-../../../models/20190215/models/HSF1_FL_4_KX_TTTATT40NATC.subsample_20000.8mer.model.txt

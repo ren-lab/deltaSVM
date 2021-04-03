@@ -1,1 +1,0 @@
-../../../models/20190716/models/MNX1_eDBD_1_KO_TAAGGG40NACC.subsample_20000.8mer.model.txt

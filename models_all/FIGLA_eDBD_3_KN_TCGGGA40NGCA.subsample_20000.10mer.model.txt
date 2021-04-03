@@ -1,1 +1,0 @@
-../../../models/20190215/models/FIGLA_eDBD_3_KN_TCGGGA40NGCA.subsample_20000.10mer.model.txt

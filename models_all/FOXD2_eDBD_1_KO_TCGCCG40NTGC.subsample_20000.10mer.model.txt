@@ -1,1 +1,0 @@
-../../../models/20190716/models/FOXD2_eDBD_1_KO_TCGCCG40NTGC.subsample_20000.10mer.model.txt

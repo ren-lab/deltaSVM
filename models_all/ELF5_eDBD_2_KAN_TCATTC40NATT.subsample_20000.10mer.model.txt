@@ -1,1 +1,0 @@
-../../../models/20190215/models/ELF5_eDBD_2_KAN_TCATTC40NATT.subsample_20000.10mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190215/models/ZBTB26_FL_1_KAE_TGAAGG40NGAT.subsample_20000.10mer.model.txt

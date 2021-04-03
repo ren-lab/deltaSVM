@@ -1,1 +1,0 @@
-../../../models/20190215/models/ERG_eDBD_4_KT_TAGAGC40NTAG.subsample_20000.10mer.model.txt

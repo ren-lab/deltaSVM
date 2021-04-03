@@ -1,1 +1,0 @@
-../../../models/20190215/models/DMRTA1_FL_4_KZ_TCAGGG40NGCA.subsample_20000.10mer.model.txt

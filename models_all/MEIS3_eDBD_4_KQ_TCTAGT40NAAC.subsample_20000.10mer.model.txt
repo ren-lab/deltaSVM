@@ -1,1 +1,0 @@
-../../../models/20190215/models/MEIS3_eDBD_4_KQ_TCTAGT40NAAC.subsample_20000.10mer.model.txt

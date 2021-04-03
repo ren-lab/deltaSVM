@@ -1,1 +1,0 @@
-../../../models/20190716/models/ESR1_FL_2_KZ_TGCATT40NCCT.subsample_20000.10mer.model.txt

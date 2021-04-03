@@ -1,1 +1,0 @@
-../../../models/20190716/models/ESRRA_eDBD_4_KO_TAGACC40NAGT.subsample_20000.8mer.model.txt

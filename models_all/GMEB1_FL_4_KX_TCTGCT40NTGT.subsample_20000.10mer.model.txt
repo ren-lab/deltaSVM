@@ -1,1 +1,0 @@
-../../../models/20190716/models/GMEB1_FL_4_KX_TCTGCT40NTGT.subsample_20000.10mer.model.txt

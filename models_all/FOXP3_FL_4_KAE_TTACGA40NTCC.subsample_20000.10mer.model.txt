@@ -1,1 +1,0 @@
-../../../models/20190716/models/FOXP3_FL_4_KAE_TTACGA40NTCC.subsample_20000.10mer.model.txt

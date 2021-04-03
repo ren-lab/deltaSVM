@@ -1,1 +1,0 @@
-../../../models/20190716/models/ZSCAN5_eDBD_2_KR_TCGCCC40NCAT.subsample_20000.10mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190716/models/RXRA_eDBD_4_KO_TACCCA40NTGT.subsample_20000.8mer.model.txt

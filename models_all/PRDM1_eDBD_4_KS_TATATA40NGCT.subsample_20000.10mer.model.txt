@@ -1,1 +1,0 @@
-../../../models/20190716/models/PRDM1_eDBD_4_KS_TATATA40NGCT.subsample_20000.10mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190215/models/GRHL1_eDBD_1_KS_TGCTCC40NCCG.subsample_20000.8mer.model.txt

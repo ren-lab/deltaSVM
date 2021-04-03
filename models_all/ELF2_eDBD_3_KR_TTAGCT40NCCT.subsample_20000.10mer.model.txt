@@ -1,1 +1,0 @@
-../../../models/20190215/models/ELF2_eDBD_3_KR_TTAGCT40NCCT.subsample_20000.10mer.model.txt

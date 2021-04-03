@@ -1,1 +1,0 @@
-../../../models/20190716/models/TEF_eDBD_3_KN_TAAGCT40NTGC.subsample_20000.10mer.model.txt

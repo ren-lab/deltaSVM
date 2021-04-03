@@ -1,1 +1,0 @@
-../../../models/20190215/models/SNAI2_FL_4_KV_TACCTT40NCGA.subsample_20000.8mer.model.txt

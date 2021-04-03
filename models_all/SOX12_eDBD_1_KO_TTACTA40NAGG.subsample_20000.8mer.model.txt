@@ -1,1 +1,0 @@
-../../../models/20190716/models/SOX12_eDBD_1_KO_TTACTA40NAGG.subsample_20000.8mer.model.txt

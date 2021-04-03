@@ -1,1 +1,0 @@
-../../../models/20190716/models/FOXJ3_eDBD_2_KW_TACATC40NATA.subsample_20000.10mer.model.txt

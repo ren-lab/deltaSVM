@@ -1,1 +1,0 @@
-../../../models/20190716/models/EOMES_eDBD_2_KP_TTAGCT40NCCT.subsample_20000.8mer.model.txt

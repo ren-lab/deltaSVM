@@ -1,1 +1,0 @@
-../../../models/20190716/models/BBX_eDBD_4_KAN_TCGGGT40NAAG.subsample_20000.10mer.model.txt

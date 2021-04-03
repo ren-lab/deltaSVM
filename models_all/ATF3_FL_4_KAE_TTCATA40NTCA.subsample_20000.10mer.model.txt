@@ -1,1 +1,0 @@
-../../../models/20190215/models/ATF3_FL_4_KAE_TTCATA40NTCA.subsample_20000.10mer.model.txt

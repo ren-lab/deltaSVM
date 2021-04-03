@@ -1,1 +1,0 @@
-../../../models/20190716/models/NR2F6_FL_4_KV_TGCCTC40NCAA.subsample_20000.8mer.model.txt

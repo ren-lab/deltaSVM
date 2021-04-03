@@ -1,1 +1,0 @@
-../../../models/20190716/models/ZNF713_eDBD_1_KP_TACGGT40NTAC.subsample_20000.10mer.model.txt

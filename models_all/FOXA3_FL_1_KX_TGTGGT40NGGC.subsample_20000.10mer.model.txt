@@ -1,1 +1,0 @@
-../../../models/20190716/models/FOXA3_FL_1_KX_TGTGGT40NGGC.subsample_20000.10mer.model.txt

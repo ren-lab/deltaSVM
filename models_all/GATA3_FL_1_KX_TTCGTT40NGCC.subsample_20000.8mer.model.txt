@@ -1,1 +1,0 @@
-../../../models/20190215/models/GATA3_FL_1_KX_TTCGTT40NGCC.subsample_20000.8mer.model.txt

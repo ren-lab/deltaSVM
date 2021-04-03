@@ -1,1 +1,0 @@
-../../../models/20190215/models/MAFG_FL_2_KAE_TGTTAA40NACT.subsample_20000.8mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190716/models/HOXB5_FL_3_KAE_TCTGAG40NCAG.subsample_20000.8mer.model.txt

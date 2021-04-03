@@ -1,1 +1,0 @@
-../../../models/20190716/models/TGIF2LY_eDBD_2_KT_TAAGGG40NACC.subsample_20000.8mer.model.txt

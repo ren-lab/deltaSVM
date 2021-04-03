@@ -1,1 +1,0 @@
-../../../models/20190215/models/SNAI3_FL_1_KAE_TAGTAC40NTAG.subsample_20000.8mer.model.txt

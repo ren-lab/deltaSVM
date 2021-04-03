@@ -1,1 +1,0 @@
-../../../models/20190215/models/FOXA2_eDBD_1_KT_TAGCTG40NCTA.subsample_20000.10mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190716/models/GSC_eDBD_1_KAN_TAGAGC40NTAG.subsample_20000.8mer.model.txt

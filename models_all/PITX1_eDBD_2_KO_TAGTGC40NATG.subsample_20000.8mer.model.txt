@@ -1,1 +1,0 @@
-../../../models/20190716/models/PITX1_eDBD_2_KO_TAGTGC40NATG.subsample_20000.8mer.model.txt

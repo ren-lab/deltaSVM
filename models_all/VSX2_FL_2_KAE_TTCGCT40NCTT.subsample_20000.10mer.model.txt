@@ -1,1 +1,0 @@
-../../../models/20190215/models/VSX2_FL_2_KAE_TTCGCT40NCTT.subsample_20000.10mer.model.txt

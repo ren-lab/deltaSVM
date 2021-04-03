@@ -1,1 +1,0 @@
-../../../models/20190716/models/HES6_FL_2_KAE_TAAGGA40NCCG.subsample_20000.8mer.model.txt

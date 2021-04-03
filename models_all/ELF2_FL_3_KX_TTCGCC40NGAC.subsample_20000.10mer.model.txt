@@ -1,1 +1,0 @@
-../../../models/20190215/models/ELF2_FL_3_KX_TTCGCC40NGAC.subsample_20000.10mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190716/models/SOX30_eDBD_2_KS_TAAGTC40NCGT.subsample_20000.8mer.model.txt

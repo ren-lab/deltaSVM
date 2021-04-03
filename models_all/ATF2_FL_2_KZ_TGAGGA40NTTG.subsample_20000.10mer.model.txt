@@ -1,1 +1,0 @@
-../../../models/20190215/models/ATF2_FL_2_KZ_TGAGGA40NTTG.subsample_20000.10mer.model.txt

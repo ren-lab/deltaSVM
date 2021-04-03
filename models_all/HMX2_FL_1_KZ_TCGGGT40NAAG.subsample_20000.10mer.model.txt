@@ -1,1 +1,0 @@
-../../../models/20190716/models/HMX2_FL_1_KZ_TCGGGT40NAAG.subsample_20000.10mer.model.txt

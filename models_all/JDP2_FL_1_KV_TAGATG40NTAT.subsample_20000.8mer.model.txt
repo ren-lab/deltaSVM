@@ -1,1 +1,0 @@
-../../../models/20190215/models/JDP2_FL_1_KV_TAGATG40NTAT.subsample_20000.8mer.model.txt

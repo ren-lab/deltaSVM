@@ -1,1 +1,0 @@
-../../../models/20190716/models/RFX5_eDBD_4_KO_TTGATG40NATC.subsample_20000.8mer.model.txt

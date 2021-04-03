@@ -1,1 +1,0 @@
-../../../models/20190716/models/TFEC_eDBD_1_KAN_TGTCAG40NGAC.subsample_20000.10mer.model.txt

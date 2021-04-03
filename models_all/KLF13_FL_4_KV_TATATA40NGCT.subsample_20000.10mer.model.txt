@@ -1,1 +1,0 @@
-../../../models/20190215/models/KLF13_FL_4_KV_TATATA40NGCT.subsample_20000.10mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190716/models/ZSCAN23_eDBD_2_KR_TACTAC40NGCC.subsample_20000.8mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190716/models/ONECUT2_eDBD_2_KP_TGCAGC40NATT.subsample_20000.10mer.model.txt

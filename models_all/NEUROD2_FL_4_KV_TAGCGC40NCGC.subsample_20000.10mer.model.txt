@@ -1,1 +1,0 @@
-../../../models/20190716/models/NEUROD2_FL_4_KV_TAGCGC40NCGC.subsample_20000.10mer.model.txt

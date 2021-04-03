@@ -1,1 +1,0 @@
-../../../models/20190215/models/PAX8_FL_3_KX_TCTTGT40NCAG.subsample_20000.8mer.model.txt

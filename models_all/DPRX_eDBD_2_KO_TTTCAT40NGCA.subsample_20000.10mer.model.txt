@@ -1,1 +1,0 @@
-../../../models/20190716/models/DPRX_eDBD_2_KO_TTTCAT40NGCA.subsample_20000.10mer.model.txt

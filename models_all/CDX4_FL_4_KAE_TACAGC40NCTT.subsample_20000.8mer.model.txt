@@ -1,1 +1,0 @@
-../../../models/20190716/models/CDX4_FL_4_KAE_TACAGC40NCTT.subsample_20000.8mer.model.txt

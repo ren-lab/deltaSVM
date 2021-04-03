@@ -1,1 +1,0 @@
-../../../models/20190716/models/TEAD2_FL_3_KX_TGAGCG40NTTG.subsample_20000.10mer.model.txt

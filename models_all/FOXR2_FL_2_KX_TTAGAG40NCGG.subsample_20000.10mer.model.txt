@@ -1,1 +1,0 @@
-../../../models/20190215/models/FOXR2_FL_2_KX_TTAGAG40NCGG.subsample_20000.10mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190716/models/SCRT2_eDBD_4_KP_TCAGAA40NAGG.subsample_20000.10mer.model.txt

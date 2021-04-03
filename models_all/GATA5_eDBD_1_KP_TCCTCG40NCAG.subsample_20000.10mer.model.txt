@@ -1,1 +1,0 @@
-../../../models/20190215/models/GATA5_eDBD_1_KP_TCCTCG40NCAG.subsample_20000.10mer.model.txt

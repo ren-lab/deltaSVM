@@ -1,1 +1,0 @@
-../../../models/20190716/models/MEOX1_FL_3_KX_TAAGCA40NGTC.subsample_20000.10mer.model.txt

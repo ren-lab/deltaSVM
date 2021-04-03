@@ -1,1 +1,0 @@
-../../../models/20190716/models/PPARD_eDBD_2_KR_TGGTCG40NTAA.subsample_20000.10mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190716/models/RARA_eDBD_3_KS_TGAACC40NCCA.subsample_20000.10mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190716/models/PBX1_FL_3_KW_TCGGTG40NCAA.subsample_20000.10mer.model.txt

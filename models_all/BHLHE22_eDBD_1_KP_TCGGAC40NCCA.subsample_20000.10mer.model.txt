@@ -1,1 +1,0 @@
-../../../models/20190716/models/BHLHE22_eDBD_1_KP_TCGGAC40NCCA.subsample_20000.10mer.model.txt

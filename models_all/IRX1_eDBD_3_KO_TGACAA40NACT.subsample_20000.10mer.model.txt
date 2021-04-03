@@ -1,1 +1,0 @@
-../../../models/20190716/models/IRX1_eDBD_3_KO_TGACAA40NACT.subsample_20000.10mer.model.txt

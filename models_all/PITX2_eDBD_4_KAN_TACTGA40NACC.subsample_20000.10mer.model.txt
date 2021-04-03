@@ -1,1 +1,0 @@
-../../../models/20190716/models/PITX2_eDBD_4_KAN_TACTGA40NACC.subsample_20000.10mer.model.txt

@@ -1,1 +1,0 @@
-../../../models/20190215/models/ZNF597_FL_4_KW_TATTCA40NAGT.subsample_20000.8mer.model.txt

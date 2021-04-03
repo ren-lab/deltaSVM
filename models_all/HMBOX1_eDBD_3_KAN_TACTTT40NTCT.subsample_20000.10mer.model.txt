@@ -1,1 +1,0 @@
-../../../models/20190716/models/HMBOX1_eDBD_3_KAN_TACTTT40NTCT.subsample_20000.10mer.model.txt

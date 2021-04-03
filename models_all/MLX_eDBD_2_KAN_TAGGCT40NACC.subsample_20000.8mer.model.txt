@@ -1,1 +1,0 @@
-../../../models/20190716/models/MLX_eDBD_2_KAN_TAGGCT40NACC.subsample_20000.8mer.model.txt

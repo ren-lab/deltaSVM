@@ -1,1 +1,0 @@
-../../../models/20190215/models/OLIG2_eDBD_1_KR_TACTAG40NGGA.subsample_20000.8mer.model.txt

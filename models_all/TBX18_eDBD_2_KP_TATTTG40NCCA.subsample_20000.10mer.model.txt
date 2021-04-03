@@ -1,1 +1,0 @@
-../../../models/20190716/models/TBX18_eDBD_2_KP_TATTTG40NCCA.subsample_20000.10mer.model.txt

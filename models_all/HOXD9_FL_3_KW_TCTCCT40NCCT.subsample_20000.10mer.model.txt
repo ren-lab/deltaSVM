@@ -1,1 +1,0 @@
-../../../models/20190716/models/HOXD9_FL_3_KW_TCTCCT40NCCT.subsample_20000.10mer.model.txt

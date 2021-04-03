@@ -1,1 +1,0 @@
-../../../models/20190716/models/SIX2_FL_2_KX_TAAATT40NCTG.subsample_20000.10mer.model.txt
