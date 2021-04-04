@@ -9,7 +9,7 @@ Here, we provide scripts and resources to make predictions for differential bind
 We carefully evaluated all models and there are 94 models with high confidence (AUPRC > 0.75). We included all those models in [models](models/) folder. For the potential use of other models, we include all models we trained in [models_all](http://renlab.sdsc.edu/yunjiang/deltaSVM/models_all). But please take your risk when using them since they are either not evaluated or failed. We trained multiple models for the same TF with different SNP-SELEX experiments and parameters, so you may find multiple models for the same TF. 
 
 ## Dependency
-[pysam](https://pysam.readthedocs.io/en/latest/api.html) is required to run the software. You can install pysam using conda or pip.
+[pysam](https://pysam.readthedocs.io/en/latest/api.html) is required to run the software. You can install pysam using conda or pip. `gkmpredict` is copied from (lsgkm)[https://github.com/Dongwon-Lee/lsgkm] and only work for Linux. If you want to run on other platforms or have any questions about `gkmpredict`, please go to lsgkm repo for help.
 
 ## Quick Start
 First, you need to obtain a list of SNPs and reference genome in fasta format (.fa file) with index(.fai file). In this repo, we used `input_snp.tsv` as the input SNPs and `hg19.fa` as the reference genome. 
