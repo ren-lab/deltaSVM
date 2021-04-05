@@ -6,7 +6,7 @@ Based on HT-SELEX data from [Yin *et. al.* 2017](https://www.ncbi.nlm.nih.gov/pu
 Here, we provide scripts and resources to make predictions for differential binding to SNPs of 94 high-confidence TFs. For few SNPs of interest (<1,000), our web server [GVATdb](http://renlab.sdsc.edu/GVATdb/) is recommended. To predict a large set of SNPs, you can clone this GitHub repo and run it on a local server.
 
 ## Models
-The overall model consists two parts of models. One is gkm-SVM models used to predict TF binding to sequences with `gkmpredict`, and the other is deltaSVM weights to predict allelic TF binding with `deltasvm`. We carefully evaluated all models and there are 94 models with high confidence (AUPRC > 0.75). We included all gkm-SVM models in [gkm-SVM models]( gkmsvm_ models/) folder and [deltaSVM models](http://renlab.sdsc.edu/yunjiang/deltaSVM/resources/models.weights.txt). 
+The overall model consists two parts of models. One is gkm-SVM models used to predict TF binding to sequences with `gkmpredict`, and the other is deltaSVM weights to predict allelic TF binding with `deltasvm`. We carefully evaluated all models and there are 94 models with high confidence (AUPRC > 0.75). We included all gkm-SVM models in [gkm-SVM models](gkmsvm_ models/) folder and [deltaSVM models](http://renlab.sdsc.edu/yunjiang/deltaSVM/resources/models.weights.txt). 
 
 ## Dependency
 [pysam](https://pysam.readthedocs.io/en/latest/api.html) is required to run the software. You can install pysam using conda or pip. `gkmpredict` is copied from [lsgkm](https://github.com/Dongwon-Lee/lsgkm) and only work for Linux. If you want to run on other platforms or have any questions about `gkmpredict`, please go to lsgkm repo for help.
