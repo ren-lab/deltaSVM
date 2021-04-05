@@ -13,9 +13,9 @@ scripts/deltasvm_subset_multi data/selex_allelic_oligos.ref.fa data/selex_alleli
 sort -k1,1 -k3,3 -o out/pbs.pred.tsv out/pbs.pred.tsv
 cat resources/threhsolds.obs.tsv | while read tf score model
 do
-    scripts/gkmpredict -T 1 data/selex_allelic_oligos.ref.fa models/${model}.model.txt tmp/${tf}.ref.gkm.tsv &>log/${model}.ref.gkm.log
+    scripts/gkmpredict -T 1 data/selex_allelic_oligos.ref.fa gkmsvm_models/${model}.model.txt tmp/${tf}.ref.gkm.tsv &>log/${model}.ref.gkm.log
     sort -k1,1 -o tmp/${tf}.ref.gkm.tsv tmp/${tf}.ref.gkm.tsv
-    scripts/gkmpredict -T 1 data/selex_allelic_oligos.alt.fa models/${model}.model.txt tmp/${tf}.alt.gkm.tsv &>log/${model}.alt.gkm.log
+    scripts/gkmpredict -T 1 data/selex_allelic_oligos.alt.fa gkmsvm_models/${model}.model.txt tmp/${tf}.alt.gkm.tsv &>log/${model}.alt.gkm.log
     sort -k1,1 -o tmp/${tf}.alt.gkm.tsv tmp/${tf}.alt.gkm.tsv
     paste tmp/${tf}.ref.gkm.tsv tmp/${tf}.alt.gkm.tsv | cut -f1,2,4 > tmp/${tf}.merge.gkm.tsv
 done
